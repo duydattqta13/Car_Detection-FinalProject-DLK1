@@ -7,12 +7,6 @@
   
 # <p align="center"> Car Detection
 
-# Table of contents
-- [Slide](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/Car%20Detection_.pptx)
-- [EDA dataset](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/EDA-%20CarDetection.ipynb)
-- [Experiment Model](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/Implement%20with%20YoloV5.ipynb)
-- [Deploy Model](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/tree/main/Deploy%20on%20Flask%20App)
- 
 # Information
 - Mentor: Phạm Đình Khánh 
  
@@ -20,8 +14,14 @@
 |:---:|:----------------:|:-----------:|
 |1|Nguyễn Ngọc Minh Thy|[minhthy1016](https://github.com/minhthy1016?fbclid=IwAR35g875tOgyfevfG1BZhSTAtUcgGKCHJrDmtFFtNOcPhegEYdlPNjbeVd0)|
 |2|Nguyễn Trần Đăng Dương|[duongngyn0510](https://github.com/duongngyn0510?fbclid=IwAR3Zhx2LcqGe0iIkqtisalSwaDlMcqSCz38s5Tv7J9T8SdU32h0h-d2KjOQ)|
-|3|Nguyễn Duy Đạt|[duydattqta13](https://github.com/duydattqta13)|
-
+|3|Nguyễn Duy Đạt|[duydattqta13](https://github.com/duydattqta13)| 
+  
+# Table of contents
+- [Slide](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/Car%20Detection_.pptx)
+- [EDA dataset](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/EDA-%20CarDetection.ipynb)
+- [Experiment Model](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/blob/main/Implement%20with%20YoloV5.ipynb)
+- [Deploy Model](https://github.com/duydattqta13/Car_Detection-FinalProject-DLK1/tree/main/Deploy%20on%20Flask%20App)
+ 
  # Result
  
 <p align="center">
